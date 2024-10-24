@@ -6,4 +6,4 @@ The dataset used for this project was collected from [Kaggle](https://www.kaggle
 
 You can download the dataset from the following link:
 
-[Dataset Link]([#insert-link-here](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning))
+[Dataset Link](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
